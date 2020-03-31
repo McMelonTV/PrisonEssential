@@ -30,7 +30,7 @@ If you encounter Bugs do not forget to message me on Discord: DaRealAqua#7047
 
 ### Authors:
 - DaRealAqua
-- AlexItz16
+-AlexItz16
 
 ### Socials:
 - Discord: DaRealAqua#7047
