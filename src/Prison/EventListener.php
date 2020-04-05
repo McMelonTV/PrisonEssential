@@ -13,7 +13,7 @@ use pocketmine\event\entity\EntityDamageByEntityEvent;
 
 class EventListener implements Listener{
 
-    /** @var Main  */
+    /** @var Main */
     private $plugin;
 
     public function __construct(Main $plugin){
