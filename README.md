@@ -33,7 +33,7 @@ If you encounter Bugs do not forget to message me on Discord: DaRealAqua#7047
 - AlexItz16
 
 ### Socials:
-- Discord: DaRealAqua#7047
+- Discord: DaRealAqua#1987
 - Instagram: DaRealAqua
 - Xbox: DaRealAqua
 - Youtube: DaRealAqua
