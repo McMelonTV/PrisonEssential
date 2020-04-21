@@ -13,6 +13,7 @@ If you encounter Bugs do not forget to message me on Discord: DaRealAqua#1987
 - Sell System
 - World Protection
 - MineReset Compatible (If you put protection with this plugin at mines it will be compatible with MineReset. You can only break what is created with MineReset)
+- ScoreHud Compatibile (You can download the addon [here](https://www.mediafire.com/file/yhm5fhnd2ltrnud/PrisonEssentialsAddon.php/file) and the codes are: `{prisone_rank}` for showing your actual rank, `{prisone_prestige}` for showing your actual prestige and `{prisone_rank_price}` for showing how much money you need to rankup.)
 
 ### Plugin Commands:
 - /msell
